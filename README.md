@@ -1,1 +1,1 @@
-# GEOGW12Example
+# GEOGW12Example - my map
